@@ -1,49 +1,60 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Oswald-Font_Style-orange?style=flat-square" alt="Oswald Style" style="display:none;">
-  <h1 style="font-family: 'Oswald', sans-serif; font-weight: bold;">BUILDING SCALABLE SYSTEMS. SENIOR WEB DEVELOPER. SHIPPING REAL PRODUCTS.</h1>
-  <p><strong>Senior Software Engineer | AI & Workflow Automation | Linux Server Admin</strong></p>
+  <h1 style="font-family: 'Oswald', sans-serif; font-weight: bold; letter-spacing: 1px;">BUILDING SCALABLE SYSTEMS. SENIOR WEB DEVELOPER. SHIPPING REAL PRODUCTS.</h1>
+  <p><strong>Senior Software Engineer | AI & Workflow Automation | Linux Server Administrator</strong></p>
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;">01. ABOUT ME</h2>
+  <h2 style="font-family: 'Oswald', sans-serif;">01. EXECUTIVE SUMMARY</h2>
 </div>
 
-I am **Sharif Ahammed**, a Senior Web Developer and AI Automation Engineer with **over 18 years of experience**. Currently, I work at **51Blocks** (USA), delivering high-performance SEO and PPC solutions[cite: 1]. I specialize in transforming complex concepts into robust software, combining 12+ years of WordPress expertise with advanced Linux Server administration[cite: 1].
+I am **Sharif Ahammed**, an innovative Senior Web Developer and AI Automation Creator with over **18 years of professional experience** in the technology industry. I specialize in transforming complex, abstract concepts into robust, high-performance, and scalable software solutions. My engineering philosophy centers on combining clean architecture with cutting-edge technology to drive digital transformation.
+
+Currently, I serve as a **Senior Web Developer at 51Blocks** (USA), where I focus on empowering small businesses through high-performance web solutions and innovative digital strategies[cite: 1]. With over 12 years of expertise in WordPress and Linux Server Administration, I ensure optimal security, stability, and speed for every deployment[cite: 1].
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;">02. EXECUTION LOGS</h2>
+  <h2 style="font-family: 'Oswald', sans-serif;">02. CAREER EXECUTION LOGS</h2>
 </div>
 
-| Period | Target | Role |
+| Period | Organization | Role & Technical Impact |
 | :--- | :--- | :--- |
-| **2022 - Present** | **51Blocks (USA)** | Senior Web Developer — SEO & Marketing Solutions[cite: 1] |
-| **2014 - Present** | **DuiChaka** | Founder & Developer — Multivendor eCommerce[cite: 1] |
-| **2011 - Present** | **PRIMEX Infosys** | Developer — Web solutions & Maintenance[cite: 1] |
-| **2009 - Present** | **Linux Bangladesh**| Community Leader — Leading 30,000+ members[cite: 1] |
-| **2012 - Present** | **Mozilla / FOSSBD**| Volunteer — Open web & Tech freedom advocacy[cite: 1] |
+| **2022 - Present** | **51Blocks (USA)** | **Senior Web Developer**: Delivering top-tier SEO, PPC, and marketing automation solutions for small businesses[cite: 1]. |
+| **2014 - Present** | **DuiChaka** | **Founder & Lead Developer**: Spearheaded a multivendor e-commerce platform built on user-centric design and scalability[cite: 1]. |
+| **2011 - Present** | **PRIMEX Infosys** | **Developer**: Over 15 years of continuous contribution to web development, system maintenance, and backend logic[cite: 1]. |
+| **2016 - Present** | **nixits** | **Developer**: Ongoing development and architectural planning across multiple complex projects[cite: 1]. |
+| **2009 - Present** | **Linux Bangladesh**| **Community Leader**: Leading the largest Linux community in the country (30,000+ members), fostering open-source innovation[cite: 1]. |
+| **2012 - Present** | **Mozilla / FOSSBD**| **Volunteer**: Over 14 years of advocacy for web literacy, privacy, and technological freedom[cite: 1]. |
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;">03. SYSTEM CAPABILITIES</h2>
+  <h2 style="font-family: 'Oswald', sans-serif;">03. CORE SYSTEM CAPABILITIES</h2>
 </div>
 
-*   **Development:** WordPress (Custom Themes/Plugins), WooCommerce, Webflow, React, Next.js[cite: 1].
-*   **Infrastructure:** Linux Server Administration, Security, Stability, and Performance Optimization[cite: 1].
-*   **Automation:** AI-Driven Workflows, LLM Integration, API Development & Integration[cite: 1].
-*   **Education:** B.Sc in Computer Science Engineering (CUST) | Computer Science (Dhaka Polytechnic)[cite: 1].
+*   **Frontend Mastery:** Expert in HTML5, CSS3/SCSS, JavaScript (ES6+), React, Vue.js, and Next.js[cite: 1].
+*   **WordPress Ecosystem:** 12+ years of creating custom themes, plugins, and complex API integrations for WooCommerce and Webflow[cite: 1].
+*   **Infrastructure & Ops:** Advanced Linux Server Administration, Docker, Kubernetes, and AWS Cloud Infrastructure management[cite: 1].
+*   **AI & Automation:** Designing intelligent agents, LLM integrations, and data processing pipelines for workflow optimization[cite: 1].
+*   **System Design:** Applying Microservices architecture, Clean Code principles, and Agile methodologies to large-scale projects[cite: 1].
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;">04. DEPLOYED PROJECTS</h2>
+  <h2 style="font-family: 'Oswald', sans-serif;">04. DEPLOYED ECOSYSTEMS</h2>
 </div>
 
-*   **PinPoint:** SaaS visual feedback application (PHP/MySQL).
-*   **Auto-Clicker:** Advanced browser automation extension.
-*   **Hostomega:** Premium domain and web hosting infrastructure.
-*   **DuiChaka:** A user-centric multivendor marketplace innovation[cite: 1].
+*   **PinPoint (SaaS):** A visual feedback system for real-time client-developer collaboration (PHP/MySQL).
+*   **Auto-Clicker:** A high-performance browser automation tool launched in March 2026.
+*   **Hostomega:** Professional domain and web hosting infrastructure management.
+*   **Enterprise Solutions:** Custom-built CRM integrations and AI-driven reporting systems to reduce manual operations[cite: 1].
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;">05. ESTABLISH CONNECTION</h2>
+  <h2 style="font-family: 'Oswald', sans-serif;">05. ACADEMIC FOUNDATION</h2>
+</div>
+
+*   **Bachelor of Science in Computer Science Engineering** – Central University of Science & Technology[cite: 1].
+*   **Engineer's Degree in Computer Science** – Dhaka Polytechnic Institute (2008-2012)[cite: 1].
+*   **Engineering Degree** – Rajdia Abhoy Pilot High School (2003-2008)[cite: 1].
+
+<div align="center">
+  <h2 style="font-family: 'Oswald', sans-serif;">06. ESTABLISH CONNECTION</h2>
 </div>
 
 <p align="center">
