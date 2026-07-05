@@ -58,7 +58,7 @@ Currently, I serve as a **Senior Web Developer at 51Blocks** (USA), where I focu
 </div>
 
 <p align="center">
-  <a href="https://sharif.me">🌐 sharif.me</a> • 
+  <a href="https://sharif.bd">🌐 sharif.bd</a> • 
   <a href="https://www.linkedin.com/in/nuxrif">🔗 LinkedIn</a> • 
   <a href="mailto:sa.mollick@gmail.com">📧 sa.mollick@gmail.com</a> • 
   📍 Lalbagh, Dhaka
