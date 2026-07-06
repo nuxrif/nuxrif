@@ -20,11 +20,11 @@ Currently, I serve as a **Senior Web Developer at 51Blocks** (USA), where I focu
 | Period | Organization | Role & Technical Impact |
 | :--- | :--- | :--- |
 | **2022 - Present** | **51Blocks (USA)** | **Senior Web Developer**: Delivering top-tier SEO, PPC, and marketing automation solutions for small businesses[cite: 1]. |
-| **2014 - Present** | **DuiChaka** | **Founder & Lead Developer**: Spearheaded a multivendor e-commerce platform built on user-centric design and scalability[cite: 1]. |
-| **2011 - Present** | **PRIMEX Infosys** | **Developer**: Over 15 years of continuous contribution to web development, system maintenance, and backend logic[cite: 1]. |
-| **2016 - Present** | **nixits** | **Developer**: Ongoing development and architectural planning across multiple complex projects[cite: 1]. |
-| **2009 - Present** | **Linux Bangladesh**| **Community Leader**: Leading the largest Linux community in the country (30,000+ members), fostering open-source innovation[cite: 1]. |
-| **2012 - Present** | **Mozilla / FOSSBD**| **Volunteer**: Over 14 years of advocacy for web literacy, privacy, and technological freedom[cite: 1]. |
+| **2014** | **DuiChaka** | **Founder & Lead Developer**: Spearheaded a multivendor e-commerce platform built on user-centric design and scalability[cite: 1]. |
+| **2011** | **PRIMEX Infosys** | **Developer**: Over 15 years of continuous contribution to web development, system maintenance, and backend logic[cite: 1]. |
+| **2016** | **nixits** | **Developer**: Ongoing development and architectural planning across multiple complex projects[cite: 1]. |
+| **2009** | **Linux Bangladesh**| **Community Leader**: Leading the largest Linux community in the country (30,000+ members), fostering open-source innovation[cite: 1]. |
+| **2012** | **Mozilla / FOSSBD**| **Volunteer**: Over 14 years of advocacy for web literacy, privacy, and technological freedom[cite: 1]. |
 
 <div align="center">
   <h2 style="font-family: 'Oswald', sans-serif;">03. CORE SYSTEM CAPABILITIES</h2>
